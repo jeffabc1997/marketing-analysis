@@ -4,7 +4,7 @@
 How to increase the e-mail open rate?
 
 ## Background
-The aim of this project is to build a model that can predict whether a user opens the emails or not.
+The aim of this project is to **build a model that can predict whether a user opens the emails or not**.
 
 Sending emails is one of the marketing channels to reach out to our users. Being able to predict whether a user opens an email allows a company to forecast and evaluate the performance of future marketing campaigns before launch. This is because when a user opens an email, the probability of the user knowing the campaign increases and this in turn increases the probability of the user making a checkout during the campaign period. Therefore, with the predicted open rates, a company can better develop, strategize and implement future marketing campaigns.
 
